@@ -1,0 +1,24 @@
+
+POST http://localhost:3333/ninja/
+
+POST http://localhost:3333/ninja/hire
+
+
+GET http://localhost:3333/ninja/
+
+PUT http://localhost:3333/ninja/
+
+DELETE http://localhost:3333/ninja/
+
+
+
+
+
+POST http://localhost:3333/village/
+
+
+GET http://localhost:3333/village/
+
+PUT http://localhost:3333/village/
+
+DELETE http://localhost:3333/village/
