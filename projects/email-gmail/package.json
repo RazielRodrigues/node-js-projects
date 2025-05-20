@@ -15,7 +15,7 @@
     "express": "^4.18.1",
     "fs": "^0.0.1-security",
     "googleapis": "^105.0.0",
-    "multer": "^1.4.5-lts.1",
+    "multer": "^2.0.0",
     "nodemailer": "^6.7.7"
   },
   "devDependencies": {
