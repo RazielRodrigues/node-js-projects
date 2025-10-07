@@ -16,7 +16,7 @@
     "fs": "^0.0.1-security",
     "googleapis": "^105.0.0",
     "multer": "^1.4.5-lts.1",
-    "nodemailer": "^6.7.7"
+    "nodemailer": "^7.0.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
